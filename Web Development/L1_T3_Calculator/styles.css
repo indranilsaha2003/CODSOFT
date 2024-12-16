@@ -3,7 +3,8 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(to bottom, #96df4c, #36cbde);
+  background: rgb(153,147,255);
+  background: linear-gradient(90deg, rgba(153,147,255,1) 0%, rgba(254,255,164,1) 50%, rgba(134,255,157,1) 100%);
   margin: 0;
   font-family: Arial, sans-serif;
 }
@@ -12,7 +13,7 @@ body {
   width: 300px;
   background: #1e1e1e;
   overflow: hidden;
-  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.872);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.993);
   border: 1px solid rgb(0, 0, 0);
   border-radius: 20px;
 }
