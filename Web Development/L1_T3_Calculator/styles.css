@@ -67,7 +67,7 @@ button {
   padding: 10px;
   /* margin: 5px; */
   cursor: pointer;
-  transition: background 0.3s, transform 0.2s;
+  transition: background 0.3s, transform 0.1s;
 }
 
 button:hover {
